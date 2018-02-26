@@ -1,2 +1,4 @@
 # css-grid-tryout
-Playground for css grid
+CSS grid example
+
+<a href="https://twissi.github.io/css-grid-tryout/index.html">View in browser</a>
